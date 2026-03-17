@@ -713,10 +713,10 @@ function Contact() {
             <p>
               <span className="font-semibold text-slate-100">Email:</span>{" "}
               <a
-                href="mailto:riddinganthony@gmail.com?subject=AI%20Readiness%20Consultation"
+                href="mailto:hello@keystoneaipartners.com?subject=AI%20Readiness%20Consultation"
                 className="text-emerald-300 hover:text-emerald-200"
               >
-                riddinganthony@gmail.com
+                hello@keystoneaipartners.com
               </a>
             </p>
             <p>
@@ -731,7 +731,7 @@ function Contact() {
         </div>
         <div className="mt-8 flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
           <a
-            href="mailto:riddinganthony@gmail.com?subject=Book%20a%20readiness%20consultation"
+            href="mailto:hello@keystoneaipartners.com?subject=Book%20a%20readiness%20consultation"
             className="inline-flex items-center justify-center px-6 py-3 rounded-md bg-emerald-400 text-slate-900 font-semibold hover:bg-emerald-300 shadow-lg shadow-emerald-900/30"
           >
             Email Keystone AI Partners
